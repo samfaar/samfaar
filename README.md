@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samfaar
-- 👀 I’m interested in machine learning and data analytics, and looking to collaborate on those types of projects.
+- 👀 I’m interested in machine learning, and looking to collaborate on those types of projects.
 - 📫 How to reach me:  www.linkedin.com/in/sam-farzadfar
 
 <!---
